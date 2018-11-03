@@ -1,5 +1,7 @@
 # LaundryApp
 
+This proyect is just for educational purposes. It is a copy of an existing webpage just to practice HTML, SASS, Angular and Ruby.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.3.
 
 ## Development server
